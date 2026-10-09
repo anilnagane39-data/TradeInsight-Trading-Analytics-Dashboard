@@ -31,17 +31,17 @@ const marketData = {
     },
 
     TCS: {
-        price: 3200,
+        price: 5200,
         change: -0.35
     },
 
     INFY: {
-        price: 1500,
+        price: 1300,
         change: 0.62
     },
 
     HDFCBANK: {
-        price: 1000,
+        price: 1230,
         change: -0.18
     }
 
